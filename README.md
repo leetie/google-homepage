@@ -1,0 +1,1 @@
+In this project I attempted to recreate the Google homepage with much help from Google itself. It helped to solidify knowledge on styling and moving elements using CSS. I also learned more on using divs which I was a little unclear about before. After looking back at both my HTML and CSS files I think I can see some redundancies where I could have made things simpler.
