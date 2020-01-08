@@ -1,0 +1,121 @@
+
+
+#mainlogo {
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 30px;
+
+}
+
+.center {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    margin-top: 200px;
+}
+
+input {
+    
+    display: inline-block;
+    width: 200px;
+    margin-top: 15px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.searchbutton {
+
+    text-align: center;
+    margin: 0 auto;
+
+
+
+}
+
+
+.search {
+    margin: auto;
+}
+
+.input {
+    display: block;
+    margin: auto;
+    border-radius: 20px;
+    box-shadow: rgb(126, 126, 138);
+    height: 35px;
+    width: 500px;
+    
+}
+.input:hover {
+    box-shadow: 0px 1px 4px .5px rgb(224, 211, 211);
+}
+a {
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    color: black;
+    text-decoration: underline;
+    
+}
+
+.topleftnav {
+    float: left;
+    position: absolute;
+    top: 0;
+    margin-bottom: 200px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 5px;
+    padding: 0px;
+
+}
+
+li {
+    display: inline;
+    font-size: 1em;
+    padding: 0px;
+
+}
+
+.toprightnav {
+    float: right;
+    position: absolute;
+    top: 0;
+    right: 0;
+    margin-bottom: 200px;
+}
+
+.botrightnav {
+    float: right;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
+
+.botleftnav {
+    float: left;
+    position: absolute;
+    bottom: 0;
+    width: 50%;
+}
+
+.buttons {
+    background-color: rgb(224, 222, 222);
+    border-style: solid;
+    height: 2.5em;
+    border-radius: 3px;
+
+}
+
+.buttons:hover {
+    cursor: pointer;
+    border-style: solid;
+    border-color: lightgrey;
+
+}
